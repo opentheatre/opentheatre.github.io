@@ -65,11 +65,7 @@ li a:hover{
   background-color: blueviolet;
 }
 
-.scrollup{
-  right: 30px;
-  bottom: 30px;
-  position: fixed;
-}
+
 
 .uparrow{
   width: 35px;
@@ -119,6 +115,7 @@ input[type=submit]:hover {
 
 * {
   box-sizing: border-box;
+  width: 95%;
 }
 
 /* Position the image container (needed to position the left and right arrows) */
@@ -196,7 +193,7 @@ input[type=submit]:hover {
 
 /* Add a transparency effect for thumnbail images */
 .demo {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .active,
@@ -205,3 +202,8 @@ input[type=submit]:hover {
 }
 
 
+.scrollup{
+  right: -90%;
+  bottom: 5%;
+  position: fixed;
+}
