@@ -1,0 +1,39 @@
+.column1 {
+    margin-left: 10px;
+    float: center;
+    width: 90%;
+}
+
+.column2 {
+    margin-left: 10px;
+    float: center;
+    width: 90%;
+}
+
+ul{
+    width: 95%;
+    top: 10px;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    background-color: rgb(49, 55, 68);
+}
+
+li{
+    display: inline;
+}
+
+li a{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: rgb(255, 0, 0);
+}
+
+.active{
+background-color: brown;
+}
+
