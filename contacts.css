@@ -44,6 +44,13 @@ background-color: brown;
     color: rgb(12, 12, 12);
 }
 
+.normaltext1{
+    font-size: 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: red;
+}
+
 .container {
     border-radius: 5px;
     background-color: #f2f2f2;

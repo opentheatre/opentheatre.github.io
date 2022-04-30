@@ -95,7 +95,7 @@ background-color: brown;
 }
   
 .btn {
-    --color: hsl(200, 50%, 50%);
+    --color: rgb(49, 55, 68);
     background: var(--color);
     color: white;
     border: none;
@@ -106,5 +106,5 @@ background-color: brown;
 }
   
 .btn:hover, .btn:focus {
-    background: hsl(200, 50%, 60%);
+    background: red;
 }
