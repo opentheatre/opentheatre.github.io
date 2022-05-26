@@ -37,3 +37,9 @@ li a:hover{
 .active{
 background-color: brown;
 }
+
+
+.upcomming{
+    max-width: 60%;
+    height: auto;
+}
