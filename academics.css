@@ -11,7 +11,7 @@
 }
 
 ul{
-    width: 95%;
+    width: 100%;
     top: 10px;
     list-style-type: none;
     margin: 0;
@@ -42,4 +42,17 @@ background-color: brown;
 .upcomming{
     max-width: 60%;
     height: auto;
+}
+
+.heading{
+    font-size: 25px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+img{
+    max-width: 40%;
+    padding-left: 2.5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
 }
