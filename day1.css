@@ -12,7 +12,6 @@ html {
     margin: 0 auto;
     float: center;
     width: 90%;
-    text-align: center;
 }
 
 ul{
@@ -62,22 +61,6 @@ img {
     padding-bottom: 5%;
 }
 
-.seemore {
-    background-color: rgb(49, 55, 68);
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius:10px;
-}
-
-.seemore:hover{
-    background-color: red;
-}
-
 .uparrow{
     width: 100px;
     height: auto;
@@ -88,4 +71,3 @@ img {
     bottom: 30px;
     position: fixed;
 }
-
